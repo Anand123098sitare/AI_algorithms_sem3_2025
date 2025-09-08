@@ -18,7 +18,7 @@ Each algorithm is implemented in a clean, understandable way with comments for e
 
 ## 🎓 Professor
 **Dr. Arun Chauhan**  
-Artificial Intelligence Department
+Artificial Intelligence 
 
 ## 🚀 Getting Started
 
