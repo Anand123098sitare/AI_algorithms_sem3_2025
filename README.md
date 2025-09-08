@@ -20,8 +20,4 @@ Each algorithm is implemented in a clean, understandable way with comments for e
 **Dr. Arun Chauhan**  
 Artificial Intelligence 
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI_algorithms_sem3_2025.git
